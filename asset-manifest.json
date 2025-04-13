@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/citation-dashboard-mockup/static/css/main.2f74513b.css",
+    "main.js": "/citation-dashboard-mockup/static/js/main.9bd8bca9.js",
+    "index.html": "/citation-dashboard-mockup/index.html",
+    "main.2f74513b.css.map": "/citation-dashboard-mockup/static/css/main.2f74513b.css.map",
+    "main.9bd8bca9.js.map": "/citation-dashboard-mockup/static/js/main.9bd8bca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f74513b.css",
+    "static/js/main.9bd8bca9.js"
+  ]
+}
